@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/Pxzlzz/Crossover4Free/blob/main/assets/Crossover-Icon.png?raw=true" height="64" alt="Project Logo"></p>
-<h3 align="center">Crossover Trial Extender</h3>
+<h3 align="center">Crossover for Free</h3>
 <p align="center">😎 Extend your Crossover trial</p>
 
 ## Screenshots
