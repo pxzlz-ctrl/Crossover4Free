@@ -9,7 +9,7 @@
 ## Requirements
 
 1. A brain
-2. Crossover must be runned at least 1 time on your machine.
+2. Crossover must have run at least one time on your machine.
 3. [PrefsEditor](https://macdownload.informer.com/prefs-editor/download/)
 
 ## Usage
