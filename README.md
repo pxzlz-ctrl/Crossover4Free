@@ -2,13 +2,15 @@
 <h3 align="center">Crossover for Free</h3>
 <p align="center">😎 Extend your Crossover trial</p>
 
-## Issues
+## Expired Bottle?
 
-<p align="center">CrossOver bottles expire!<br>If you want to keep your files please make a backup before making a new bottle.</p>
+<h3 align="center">Here's an easy fix!</h3>
+<p align="center">Go to releases, download "Reset Bottles.zip"</p>
+<p align="center">Add "Reset Bottles.app" to your Login Items in System Preferences.</p>
 
 ## Screenshots
 
-<p align="center"><img src="https://github.com/Pxzlzz/Crossover4Free/blob/main/assets/crossover.png?raw=true" height="200" alt="trial window succeed"></p>
+<p align="center"><img src="https://github.com/wockymane/Crossover4Free/blob/main/assets/crossover.png?raw=true" height="200"</p>
 
 ## Requirements
 
