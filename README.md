@@ -22,4 +22,4 @@
 
 1. Download and extract PrefsEditor.
 2. Locate com.codeweavers.CrossOver.plist (~/Library/Preferences/)
-3. Change the "FirstRunDate" value to year 5005. ex. 5005-x-x
+3. Change the "FirstRunDate" value to year 5005 ex. 5005-x-x
